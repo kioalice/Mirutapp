@@ -1,3 +1,4 @@
 const { createContext } = require("react");
 
-export const SelectedBusinessContext=createContext(null)
+// Crear un contexto para almacenar información sobre el negocio seleccionado
+export const SelectedBusinessContext = createContext(null);

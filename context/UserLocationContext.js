@@ -1,3 +1,4 @@
 const { createContext } = require("react");
 
-export const UserLocationContext=createContext(null)
+// Crear un contexto para almacenar la ubicación del usuario
+export const UserLocationContext = createContext(null);
